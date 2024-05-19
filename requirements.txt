@@ -1,0 +1,10 @@
+huggingface_hub
+gradio
+langchain-community
+duckduckgo-search==5.3.1b1
+transformers
+torch
+inflect
+edge-tts
+asyncio
+streaming-stt-nemo==0.2.0
