@@ -22,6 +22,5 @@ This project aims to create a personal assistant that can handle voice queries a
 
 ## Demo Output 
 <p align="center">
-<img src="![Screenshot (7)](https://github.com/itsanuragkumarjha/Voice-chat-enabled-RAG-chatbot-with-real-time-internet-access/assets/134876265/c8e9db9a-439b-451d-b2e2-0b8ae95f8a46)
-" />
+<img src="Screenshot (7)" />
 </p>
