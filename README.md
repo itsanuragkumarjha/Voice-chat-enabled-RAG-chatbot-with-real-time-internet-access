@@ -22,5 +22,5 @@ This project aims to create a personal assistant that can handle voice queries a
 
 ## Demo Output 
 <p align="center">
-<img src="Screenshot (7)" />
+<img src="Screenshot (7).png" />
 </p>
