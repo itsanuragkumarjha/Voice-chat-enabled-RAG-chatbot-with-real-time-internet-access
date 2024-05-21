@@ -27,7 +27,7 @@ This project aims to create a personal assistant that can handle voice queries a
 
 ## 📽️ Demo Video
 
-![Demo](Demo2 (1).gif)
+![Demo](Demo2.gif)
 
 ## Implementation Details:
 
